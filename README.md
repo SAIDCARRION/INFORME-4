@@ -22,6 +22,9 @@ _Repasar las conversiones y-delta delta-y
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/63DC2w0K/Captura-de-pantalla-20221231-005539.png" alt="Captura-de-pantalla-20221231-005539"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/8z1MrZh7/Captura-de-pantalla-20221231-005549.png" alt="Captura-de-pantalla-20221231-005549"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/9FPyM6q3/Captura-de-pantalla-20221231-005601.png" alt="Captura-de-pantalla-20221231-005601"/></a><br/><br/>
+
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/JzPJ3jqP/Captura-de-pantalla-20221231-005610.png" alt="Captura-de-pantalla-20221231-005610"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/q7F3S0WK/Captura-de-pantalla-20221231-005618.png" alt="Captura-de-pantalla-20221231-005618"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Ls5PxhQR/Captura-de-pantalla-20221231-005632.png" alt="Captura-de-pantalla-20221231-005632"/></a><br/><br/>
@@ -35,7 +38,6 @@ _Repasar las conversiones y-delta delta-y
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Jz6DHMrF/Captura-de-pantalla-20221231-005803.png" alt="Captura-de-pantalla-20221231-005803"/></a><br/><br/>
 
 
-3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 4. VIDEO
 
